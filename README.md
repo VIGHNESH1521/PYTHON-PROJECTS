@@ -1,6 +1,7 @@
 # PYTHON PROJECTS
 
-![image](https://user-images.githubusercontent.com/90493668/151435383-a37479b9-10c1-4317-afa5-10d72098b8f2.png)
+![image](https://user-images.githubusercontent.com/90493668/151435383-a37479b9-10c1-4317-afa5-10d72098b8f2.png) ![image](https://user-images.githubusercontent.com/90493668/151435476-f58636dc-4de7-407a-8067-6a9ca353f474.png)
+
 
 Basic Python Projects 
 
