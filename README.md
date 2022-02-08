@@ -5,7 +5,7 @@
 # PYTHON
 
 - Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. 
-- Python was created by Guido van Rossum during 1985- 1990.
+- Python was created by ***Guido van Rossum*** during 1985- 1990.
 
 # Characteristics of Python
 
