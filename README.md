@@ -2,9 +2,6 @@
 
 ![11](https://user-images.githubusercontent.com/90493668/151435822-3ce4592f-6bd2-4991-9586-1095421adecd.png)
 
-![image](https://user-images.githubusercontent.com/90493668/153004684-0f4b4e07-c911-44a8-8ce0-0a63608b5b3c.png)
-
-
 # PYTHON
 
 - Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. 
