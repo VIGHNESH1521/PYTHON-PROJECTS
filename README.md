@@ -1,6 +1,6 @@
 # PYTHON PROJECTS
 
-![11](https://user-images.githubusercontent.com/90493668/151435822-3ce4592f-6bd2-4991-9586-1095421adecd.png)
+![image](https://user-images.githubusercontent.com/90493668/216967120-725318bd-eaa8-4e53-807a-778fd4bdb18c.png)
 
 # PYTHON
 
